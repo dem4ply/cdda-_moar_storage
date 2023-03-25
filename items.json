@@ -1,6 +1,6 @@
-[
-  {
+[ {
     "id": "moar_webbing_belt",
+    "name": { "str": "cinturon molle" },
     "type": "ARMOR",
     "copy-from": "webbing_belt",
     "use_action": [ { "type": "attach_molle", "size": 8 }, { "type": "detach_molle" } ]
