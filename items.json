@@ -4,7 +4,6 @@
     "type": "ARMOR",
     "copy-from": "webbing_belt",
     "use_action": [ { "type": "attach_molle", "size": 8 }, { "type": "detach_molle" } ],
-    "pocket_data": []
   },
   {
     "id": "moar_double_sling",
@@ -199,5 +198,4 @@
         }
     ]
   }
-
 ]
